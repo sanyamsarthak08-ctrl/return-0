@@ -2,6 +2,6 @@
 int main(){
 printf("We daa real CSE");
 printf("hello world");
-printf("W")
+printf("W");
 return 0;
 }
